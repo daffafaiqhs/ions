@@ -1,0 +1,200 @@
+﻿Date,Time,Appliance,Energy_Consumption,Room,Status
+2006-03-28,20:29,Refrigerator,2,Kitchen,On
+2006-03-13,01:40,Heater,4.5,Living Room,On
+2006-01-04,05:23,Air Conditioner,3.5,Living Room,On
+2006-03-01,23:33,Refrigerator,2,Office,On
+2006-03-14,15:20,Laptop,0.065,Office,On
+2006-02-10,12:03,Laptop,0.065,Bedroom,On
+2006-02-05,17:19,Washing Machine,2.5,Kitchen,On
+2006-01-19,12:58,TV,1,Kitchen,On
+2006-03-24,22:19,Laptop,0.065,Bedroom,On
+2006-02-16,11:10,Laptop,0.065,Living Room,On
+2006-03-25,12:38,Air Conditioner,3.5,Kitchen,On
+2006-03-24,07:53,Laptop,0.065,Office,On
+2006-01-15,14:50,Refrigerator,2,Kitchen,On
+2006-03-27,07:28,Air Conditioner,3.5,Office,On
+2006-03-19,16:34,Washing Machine,2.5,Bedroom,On
+2006-01-30,08:21,Air Conditioner,3.5,Kitchen,On
+2006-02-05,00:12,Laptop,0.065,Office,On
+2006-01-07,09:34,Laptop,0.065,Living Room,On
+2006-01-23,12:12,Microwave,1.2,Kitchen,Off
+2006-02-13,16:26,Refrigerator,2,Bedroom,On
+2006-03-24,22:58,Heater,4.5,Living Room,On
+2006-03-23,20:23,Heater,4.5,Bedroom,On
+2006-03-22,12:44,Air Conditioner,3.5,Office,On
+2006-01-17,16:53,Air Conditioner,3.5,Living Room,On
+2006-02-20,22:57,Laptop,0.065,Kitchen,On
+2006-03-27,03:21,Laptop,0.065,Bedroom,On
+2006-02-04,03:12,Microwave,1.2,Living Room,Off
+2006-01-20,05:15,Heater,4.5,Kitchen,On
+2006-02-07,09:04,Microwave,1.2,Living Room,Off
+2006-03-25,17:32,Microwave,1.2,Kitchen,Off
+2006-01-23,12:36,Heater,4.5,Kitchen,On
+2006-03-23,22:35,Washing Machine,2.5,Kitchen,On
+2006-03-25,10:11,Laptop,0.065,Bedroom,On
+2006-02-08,15:42,Air Conditioner,3.5,Bedroom,On
+2006-01-04,14:36,Refrigerator,2,Kitchen,On
+2006-01-08,10:15,Laptop,0.065,Bedroom,On
+2006-01-19,06:55,Microwave,1.2,Kitchen,Off
+2006-03-23,03:15,Microwave,1.2,Living Room,Off
+2006-02-27,16:25,Washing Machine,2.5,Living Room,On
+2006-01-24,19:03,Washing Machine,2.5,Kitchen,On
+2006-03-18,15:33,Washing Machine,2.5,Living Room,On
+2006-03-31,13:02,Microwave,1.2,Kitchen,Off
+2006-02-18,01:37,Washing Machine,2.5,Office,On
+2006-02-01,21:41,TV,1,Kitchen,On
+2006-02-19,09:28,Microwave,1.2,Kitchen,Off
+2006-03-22,20:29,Microwave,1.2,Kitchen,Off
+2006-02-27,11:59,Heater,4.5,Office,On
+2006-03-07,18:12,Refrigerator,2,Office,On
+2006-01-17,10:07,Air Conditioner,3.5,Kitchen,On
+2006-03-22,09:24,Refrigerator,2,Kitchen,On
+2006-02-18,09:50,Microwave,1.2,Office,Off
+2006-03-26,17:27,TV,1,Kitchen,On
+2006-03-29,15:32,Heater,4.5,Bedroom,On
+2006-03-10,17:24,Refrigerator,2,Living Room,On
+2006-03-03,06:28,Washing Machine,2.5,Living Room,On
+2006-02-19,16:00,Microwave,1.2,Kitchen,Off
+2006-02-03,22:54,Heater,4.5,Office,On
+2006-03-28,17:43,Heater,4.5,Office,On
+2006-02-05,22:01,Heater,4.5,Office,On
+2006-02-06,16:40,Laptop,0.065,Bedroom,On
+2006-02-22,20:24,Refrigerator,2,Kitchen,On
+2006-01-04,11:56,Washing Machine,2.5,Kitchen,On
+2006-03-25,10:57,Washing Machine,2.5,Kitchen,On
+2006-03-12,01:16,Heater,4.5,Living Room,On
+2006-01-31,07:07,Air Conditioner,3.5,Office,On
+2006-02-18,04:20,Refrigerator,2,Kitchen,On
+2006-03-16,23:29,Microwave,1.2,Kitchen,Off
+2006-03-16,00:57,Air Conditioner,3.5,Kitchen,On
+2006-03-15,10:11,TV,1,Office,On
+2006-01-24,18:30,Heater,4.5,Kitchen,On
+2006-03-10,00:21,Washing Machine,2.5,Office,On
+2006-01-29,14:39,Refrigerator,2,Living Room,On
+2006-03-23,10:14,TV,1,Kitchen,On
+2006-03-06,01:20,Refrigerator,2,Living Room,On
+2006-01-06,19:59,Refrigerator,2,Office,On
+2006-02-04,11:24,Laptop,0.065,Bedroom,On
+2006-01-31,04:58,Laptop,0.065,Kitchen,On
+2006-02-15,11:10,Laptop,0.065,Kitchen,On
+2006-03-21,13:31,Air Conditioner,3.5,Office,On
+2006-01-03,08:49,Heater,4.5,Kitchen,On
+2006-01-27,00:42,Air Conditioner,3.5,Kitchen,On
+2006-01-04,03:08,Washing Machine,2.5,Office,On
+2006-03-28,04:37,Washing Machine,2.5,Bedroom,On
+2006-02-18,21:28,Laptop,0.065,Office,On
+2006-01-03,08:41,Heater,4.5,Living Room,On
+2006-02-14,11:02,Refrigerator,2,Bedroom,On
+2006-02-24,13:11,Heater,4.5,Bedroom,On
+2006-01-08,17:17,TV,1,Bedroom,On
+2006-01-01,15:01,Refrigerator,2,Bedroom,On
+2006-01-15,11:14,Refrigerator,2,Kitchen,On
+2006-02-01,08:22,Air Conditioner,3.5,Office,On
+2006-01-04,18:15,Heater,4.5,Living Room,On
+2006-01-31,01:24,TV,1,Office,On
+2006-02-03,15:57,Refrigerator,2,Office,On
+2006-01-21,06:08,Laptop,0.065,Kitchen,On
+2006-02-25,20:37,Microwave,1.2,Kitchen,Off
+2006-02-10,09:23,Laptop,0.065,Bedroom,On
+2006-02-25,15:36,Heater,4.5,Office,On
+2006-01-26,05:52,Air Conditioner,3.5,Living Room,On
+2006-02-16,10:24,Laptop,0.065,Living Room,On
+2006-03-16,20:18,TV,1,Living Room,On
+2006-01-03,04:20,Microwave,1.2,Living Room,Off
+2006-03-24,08:10,Microwave,1.2,Office,Off
+2006-02-24,13:49,Laptop,0.065,Living Room,On
+2006-01-26,03:44,Heater,4.5,Bedroom,On
+2006-03-07,06:40,Refrigerator,2,Office,On
+2006-03-16,16:27,Washing Machine,2.5,Bedroom,On
+2006-03-08,21:33,Air Conditioner,3.5,Kitchen,On
+2006-02-03,04:20,Air Conditioner,3.5,Bedroom,On
+2006-03-08,10:09,Refrigerator,2,Office,On
+2006-02-28,22:25,Refrigerator,2,Living Room,On
+2006-03-13,19:21,Refrigerator,2,Living Room,On
+2006-01-21,21:37,Washing Machine,2.5,Kitchen,On
+2006-03-16,21:43,Laptop,0.065,Office,On
+2006-03-01,01:02,Refrigerator,2,Living Room,On
+2006-02-17,05:53,Laptop,0.065,Living Room,On
+2006-03-12,01:37,TV,1,Kitchen,On
+2006-02-01,18:54,Washing Machine,2.5,Living Room,On
+2006-01-31,12:29,Washing Machine,2.5,Bedroom,On
+2006-02-14,10:25,Laptop,0.065,Office,On
+2006-02-02,06:03,Microwave,1.2,Living Room,Off
+2006-03-02,18:19,Laptop,0.065,Living Room,On
+2006-03-28,12:55,Air Conditioner,3.5,Bedroom,On
+2006-01-14,19:23,Air Conditioner,3.5,Office,On
+2006-01-01,22:57,Laptop,0.065,Office,On
+2006-03-27,08:23,Microwave,1.2,Living Room,Off
+2006-02-28,05:17,Laptop,0.065,Living Room,On
+2006-01-05,23:16,Air Conditioner,3.5,Kitchen,On
+2006-02-10,10:27,Heater,4.5,Office,On
+2006-01-04,09:09,Refrigerator,2,Bedroom,On
+2006-01-10,11:03,TV,1,Bedroom,On
+2006-03-16,11:56,Heater,4.5,Bedroom,On
+2006-02-21,19:30,Air Conditioner,3.5,Kitchen,On
+2006-03-10,16:09,TV,1,Office,On
+2006-03-08,08:33,Microwave,1.2,Kitchen,Off
+2006-03-14,12:39,Laptop,0.065,Living Room,On
+2006-03-14,17:54,Laptop,0.065,Office,On
+2006-01-04,01:19,Laptop,0.065,Living Room,On
+2006-03-27,21:58,Microwave,1.2,Office,Off
+2006-01-07,21:39,Air Conditioner,3.5,Office,On
+2006-03-22,16:28,Microwave,1.2,Kitchen,Off
+2006-02-15,19:03,Microwave,1.2,Kitchen,Off
+2006-03-09,09:32,Laptop,0.065,Bedroom,On
+2006-03-29,05:21,Air Conditioner,3.5,Office,On
+2006-02-23,00:10,Microwave,1.2,Kitchen,Off
+2006-02-23,12:00,Heater,4.5,Living Room,On
+2006-02-11,07:50,Washing Machine,2.5,Kitchen,On
+2006-03-12,02:15,Washing Machine,2.5,Living Room,On
+2006-02-21,13:02,Refrigerator,2,Living Room,On
+2006-03-09,00:52,Heater,4.5,Office,On
+2006-02-15,15:57,Heater,4.5,Bedroom,On
+2006-01-14,02:09,Air Conditioner,3.5,Living Room,On
+2006-02-23,12:20,Refrigerator,2,Kitchen,On
+2006-03-18,09:29,TV,1,Bedroom,On
+2006-01-24,21:30,Heater,4.5,Kitchen,On
+2006-02-24,03:18,Refrigerator,2,Bedroom,On
+2006-02-23,11:26,Microwave,1.2,Living Room,Off
+2006-03-19,02:11,Heater,4.5,Bedroom,On
+2006-02-19,23:33,Laptop,0.065,Office,On
+2006-01-16,22:12,Microwave,1.2,Kitchen,Off
+2006-01-04,05:15,Washing Machine,2.5,Kitchen,On
+2006-02-26,21:54,Microwave,1.2,Office,On
+2006-01-15,15:15,Microwave,1.2,Living Room,Off
+2006-01-22,04:25,Refrigerator,2,Office,On
+2006-01-15,03:40,Refrigerator,2,Office,On
+2006-01-17,06:49,TV,1,Living Room,On
+2006-03-18,03:49,Refrigerator,2,Bedroom,On
+2006-02-15,07:56,Laptop,0.065,Bedroom,On
+2006-03-15,15:12,Laptop,0.065,Kitchen,On
+2006-01-28,07:18,Microwave,1.2,Office,Off
+2006-01-06,04:24,Heater,4.5,Living Room,On
+2006-03-21,11:17,Air Conditioner,3.5,Bedroom,On
+2006-03-04,12:32,Air Conditioner,3.5,Bedroom,On
+2006-02-15,07:15,TV,1,Bedroom,On
+2006-01-13,04:01,Microwave,1.2,Kitchen,Off
+2006-03-20,00:52,Air Conditioner,3.5,Bedroom,On
+2006-03-23,20:31,Washing Machine,2.5,Office,On
+2006-02-05,19:09,Microwave,1.2,Kitchen,Off
+2006-02-09,15:14,Refrigerator,2,Living Room,On
+2006-01-08,08:05,Air Conditioner,3.5,Office,On
+2006-02-17,04:46,Refrigerator,2,Bedroom,On
+2006-03-31,22:07,TV,1,Bedroom,On
+2006-01-22,11:20,Air Conditioner,3.5,Bedroom,On
+2006-02-21,15:39,Refrigerator,2,Kitchen,On
+2006-03-05,01:41,Washing Machine,2.5,Living Room,On
+2006-02-24,03:59,Heater,4.5,Office,On
+2006-03-01,13:57,Laptop,0.065,Bedroom,On
+2006-01-04,05:59,Microwave,1.2,Office,Off
+2006-03-30,16:37,TV,1,Office,On
+2006-03-09,07:33,Laptop,0.065,Office,On
+2006-03-11,09:56,Microwave,1.2,Kitchen,Off
+2006-03-22,04:27,Refrigerator,2,Living Room,On
+2006-01-17,22:23,Microwave,1.2,Kitchen,Off
+2006-02-07,13:06,TV,1,Bedroom,On
+2006-02-12,09:01,Air Conditioner,3.5,Bedroom,On
+2006-01-28,13:00,Washing Machine,2.5,Living Room,On
+2006-02-04,17:00,TV,1,Office,On
+2006-03-28,19:16,Heater,4.5,Bedroom,On
+2006-02-24,04:53,Washing Machine,2.5,Bedroom,On

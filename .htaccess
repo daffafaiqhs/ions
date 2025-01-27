@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+
+# Allow direct access to static files (like favicon)
+RewriteCond %{REQUEST_URI} ^/favicon.svg$
+RewriteRule ^ /frontend/build/favicon.svg [L]
+
+# Serve files from the "static" directory directly
+RewriteCond %{REQUEST_URI} ^/static/
+RewriteRule ^static/(.*)$ /frontend/build/static/$1 [L]
+
+# Handle client-side routing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ /frontend/build/index.html [QSA,L]
+</IfModule>
