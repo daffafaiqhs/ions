@@ -131,10 +131,29 @@ function Register({
                   bg: "brand.primary", // Change the background color on hover
                 },
               }}
-              mb={"40px"}
+              // mb={"40px"} Uncomment to fix styling
               onClick={handleRegister}
             >
               Register
+            </Button>
+            {/* Remove the button bellow to delete the auth bypass */}
+            <Button
+              w={"100%"}
+              variant="solid"
+              size={"lg"}
+              bg={"#1E1E1E"}
+              color={"white"}
+              sx={{
+                _hover: {
+                  bg: "brand.primary", // Change the background color on hover
+                },
+              }}
+              mb={"40px"}
+              onClick={() => {
+                navigate("/upload");
+              }}
+            >
+              Bypass Authentication
             </Button>
           </Center>
         </Flex>
